@@ -2,7 +2,7 @@
 
 Deploy powerful AI agents with seamless integration.
 
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.cloud">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝  <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.cloud">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>   <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
 AINest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
 
