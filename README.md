@@ -2,20 +2,18 @@
 
 Deploy powerful AI agents with seamless integration.
 
-🔗 Short link</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.tech">📚 Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝 Contribute</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.cloud">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝  <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
 AINest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
-✨ Demo
 
-For the best demo experience, try our site directly :)
 
 Demo Video (soon)
 
-👨‍🚀 Getting Started
+<h2>👨‍🚀 Getting Started</h2>
 
 The easiest way to get started with AINest is the automatic setup CLI bundled with the project.
 
-Prerequisites :point_up:
+
 
 ## Prerequisites :point_up:
 
@@ -55,14 +53,18 @@ Happy hacking! :tada:
 
 
 
-🚀 Tech Stack
+<h2>🚀 Tech Stack</h2>
 
-✅ Bootstrapping: create-t3-app + FastAPI-template.
-✅ Framework: Nextjs 13 + Typescript + FastAPI
-✅ Auth: Next-Auth.js
-✅ ORM: Prisma & SQLModel.
-✅ Database: Planetscale.
-✅ Styling: TailwindCSS + HeadlessUI.
-✅ Schema Validation: Zod + Pydantic.
-✅ LLM Tooling: Langchain.
+
+<ul>
+    <li>✅ Bootstrapping: create-t3-app + FastAPI-template</li>
+    <li>✅ Framework: Nextjs 13 + Typescript + FastAPI</li>
+    <li>✅ Auth: Next-Auth.js</li>
+    <li>✅ ORM: Prisma & SQLModel</li>
+    <li>✅ Database: Planetscale</li>
+    <li>✅ Styling: TailwindCSS + HeadlessUI</li>
+    <li>✅ Schema Validation: Zod + Pydantic</li>
+    <li>✅ LLM Tooling: Langchain</li>
+</ul>
+
 <h2 align="center"> 💝 Our GitHub sponsors 💝 </h2> <p align="center"> Join us in fueling the development of AINest, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀 </p> <h2 align="center"> 
