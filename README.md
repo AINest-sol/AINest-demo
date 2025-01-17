@@ -17,32 +17,42 @@ The easiest way to get started with AINest is the automatic setup CLI bundled wi
 
 Prerequisites :point_up:
 
+## Prerequisites :point_up:
+
 Before you get started, please make sure you have the following installed:
 
-An editor of your choice. For example, Visual Studio Code (VS Code)
-Node.js
-Git
-Docker. After installation, please create an account, open up the Docker application, and sign in.
-An OpenAI API key
-A Serper API Key (optional)
-A Replicate API Token (optional)
-Getting Started :rocket:
+- An editor of your choice. For example, [Visual Studio Code (VS Code)](https://code.visualstudio.com/download)
+- [Node.js](https://nodejs.org/en/download)
+- [Git](https://git-scm.com/downloads)
+- [Docker](https://www.docker.com/products/docker-desktop). After installation, please create an account, open up the Docker application, and sign in.
+- An [OpenAI API key](https://platform.openai.com/signup)
+- A [Serper API Key](https://serper.dev/signup) (optional)
+- A [Replicate API Token](https://replicate.com/signin) (optional)
 
-Open your editor
-Open the Terminal - Typically, you can do this from a 'Terminal' tab or by using a shortcut (e.g., Ctrl + ~ for Windows or Control + ~ for Mac in VS Code).
-Clone the Repository and Navigate into the Directory - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
-For Mac/Linux users :apple: :penguin:
+## Getting Started :rocket:
+1. **Open your editor**
 
-git clone https://github.com/AINest-sol/AINest-demo/
-cd AINest
-./setup.sh
-For Windows users :windows:
+2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut
+   (e.g., `Ctrl + ~` for Windows or `Control + ~` for Mac in VS Code).
 
-git clone https://github.com/AINest-sol/AINest-demo/
-cd AINest
-./setup.bat
-Follow the setup instructions from the script - add the appropriate API keys, and once all of the services are running, travel to http://localhost:3000 on your web browser.
+3. **Clone the Repository and Navigate into the Directory** - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
+
+   **For Mac/Linux users** :apple: :penguin:
+   ```bash
+   git clone https://github.com/AINest-sol/AINest-demo.git
+   cd AgentN
+   ./setup.sh
+   ```
+   **For Windows users** :windows:
+   ```bash
+   git clone https://github.com/AINest-sol/AINest-demo.git
+   cd AgentN
+   ./setup.bat
+   ```
+4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
+
 Happy hacking! :tada:
+
 
 🎉 Roadmap
 
