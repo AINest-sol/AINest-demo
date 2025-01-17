@@ -2,7 +2,7 @@ AINest-demo
 
 Deploy powerful AI agents with seamless integration.
 
-🔗 Short link</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.tech">📚 Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://docs.reworkd.ai/essentials/contributing">🤝 Contribute</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://twitter.com/reworkdai">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a> </p>
+🔗 Short link</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.tech">📚 Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝 Contribute</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://twitter.com/nestaiagent">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
 AINest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
 ✨ Demo
