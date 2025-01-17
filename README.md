@@ -2,14 +2,14 @@
 
 Deploy powerful AI agents with seamless integration.
 
-🔗 Short link</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.tech">📚 Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝 Contribute</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://twitter.com/nestaiagent">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
+🔗 Short link</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.tech">📚 Docs</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> 🤝 Contribute</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
 AINest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
 ✨ Demo
 
 For the best demo experience, try our site directly :)
 
-Demo Video
+Demo Video (soon)
 
 👨‍🚀 Getting Started
 
@@ -54,9 +54,6 @@ Before you get started, please make sure you have the following installed:
 Happy hacking! :tada:
 
 
-🎉 Roadmap
-
-This platform is currently in beta, a full list of completed and planned features can be found on our public roadmap.
 
 🚀 Tech Stack
 
@@ -68,4 +65,4 @@ This platform is currently in beta, a full list of completed and planned feature
 ✅ Styling: TailwindCSS + HeadlessUI.
 ✅ Schema Validation: Zod + Pydantic.
 ✅ LLM Tooling: Langchain.
-<h2 align="center"> 💝 Our GitHub sponsors 💝 </h2> <p align="center"> Join us in fueling the development of AINest, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀 </p> <h2 align="center"> 💪 Contributors 💪 </h2> <p align="center"> Our contributors have made this project possible. Thank you! 🙏 </p> <div align="center"> <sub>Made with <a href="https://contrib.rocks">contrib.rocks</a>.</sub> </div>
+<h2 align="center"> 💝 Our GitHub sponsors 💝 </h2> <p align="center"> Join us in fueling the development of AINest, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀 </p> <h2 align="center"> 
