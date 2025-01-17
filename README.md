@@ -1,9 +1,9 @@
-<h2>AINest-demo</h2>
+<h2>AiNest-demo</h2>
 
 Deploy powerful AI agents with seamless integration.
 
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span> <a href="https://ainest.cloud">Website</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>   <a href="https://twitter.com/ainestagents">🐦 Twitter</a> <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>  </p>
-AINest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
+AiNest allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
 
 
@@ -11,7 +11,7 @@ Demo Video (soon)
 
 <h2>👨‍🚀 Getting Started</h2>
 
-The easiest way to get started with AINest is the automatic setup CLI bundled with the project.
+The easiest way to get started with AiNest is the automatic setup CLI bundled with the project.
 
 <ul>
     <li>🔐 Environment variables (and API Keys)</li>
@@ -20,7 +20,7 @@ The easiest way to get started with AINest is the automatic setup CLI bundled wi
     <li>🎨 Frontend (Nextjs)</li>
 </ul>
 
-## Prerequisites :point_up:
+## Prerequisites ☝️
 
 Before you get started, please make sure you have the following installed:
 
@@ -32,7 +32,7 @@ Before you get started, please make sure you have the following installed:
 - A [Serper API Key](https://serper.dev/signup) (optional)
 - A [Replicate API Token](https://replicate.com/signin) (optional)
 
-## Getting Started :rocket:
+## Getting Started 🚀
 1. **Open your editor**
 
 2. **Open the Terminal** - Typically, you can do this from a 'Terminal' tab or by using a shortcut
@@ -40,21 +40,21 @@ Before you get started, please make sure you have the following installed:
 
 3. **Clone the Repository and Navigate into the Directory** - Once your terminal is open, you can clone the repository and move into the directory by running the commands below.
 
-   **For Mac/Linux users** :apple: :penguin:
+   **For Mac/Linux users** 🍎 🐧
    ```bash
-   git clone https://github.com/AINest-sol/AINest-demo.git
+   git clone https://github.com/AiNest-sol/AiNest-demo.git
    cd AgentN
    ./setup.sh
    ```
    **For Windows users** :windows:
    ```bash
-   git clone https://github.com/AINest-sol/AINest-demo.git
+   git clone https://github.com/AiNest-sol/AiNest-demo.git
    cd AgentN
    ./setup.bat
    ```
 4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
 
-Happy hacking! :tada:
+Happy hacking! 🎉
 
 
 
@@ -71,5 +71,3 @@ Happy hacking! :tada:
     <li>✅ Schema Validation: Zod + Pydantic</li>
     <li>✅ LLM Tooling: Langchain</li>
 </ul>
-
-<h2 align="center"> 💝 Our GitHub sponsors 💝 </h2> <p align="center"> Join us in fueling the development of AINest, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀 </p> <h2 align="center"> 
