@@ -13,7 +13,12 @@ Demo Video (soon)
 
 The easiest way to get started with AINest is the automatic setup CLI bundled with the project.
 
-
+<ul>
+    <li>🔐 Environment variables (and API Keys)</li>
+    <li>🗂️ Database (Mysql)</li>
+    <li>🤖 Backend (FastAPI)</li>
+    <li>🎨 Frontend (Nextjs)</li>
+</ul>
 
 ## Prerequisites :point_up:
 
